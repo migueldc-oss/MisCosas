@@ -1,0 +1,2 @@
+# MisCosas
+Gesión de inventario
